@@ -70,6 +70,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Team Prompt Datasets](https://github.com/topics/jailbreak-prompts) – Collections of prompts to stress-test model alignment.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Leaderboard of robust classification models.
 - [AdversarialNLI](https://github.com/facebookresearch/anli) – Dataset for robustness in natural language inference.
+- [fraud-eval](https://github.com/RishabhPande/fraud-eval) - Open benchmark for evaluating LLM-based fraud and abuse detectors, with red-team attack packs paired with benign cases and cost-aware metrics.
 
 ## Evaluation Frameworks
 
